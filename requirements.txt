@@ -29,7 +29,7 @@ matplotlib==3.0.2
 networkx==2.4
 numpy==1.18.1
 oauthlib==3.1.0
-opencv-contrib-python==4.0.0.21
+opencv-contrib-python==4.2.0.32
 opencv-python==4.0.0.21
 opt-einsum==3.2.1
 pandas==0.25.3
